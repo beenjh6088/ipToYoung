@@ -22,5 +22,8 @@ this is an h2
     * green
        * brown
 
-this is a normal paragraph :   this is a code block
-end code block
+This is a normal paragraph:
+
+    This is a code block.
+    
+end code block.
