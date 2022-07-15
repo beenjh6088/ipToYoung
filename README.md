@@ -30,5 +30,7 @@ this is a normal paragraph:
 end code block
 
 
-Link: [google][googlelink]
-[googlelink]: https://google.com "go google"
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
