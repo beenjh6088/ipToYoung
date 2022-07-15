@@ -18,5 +18,5 @@ this is an h2
 3. third
 
 * red
-*   blue
-*     green
+  * blue
+    * green
