@@ -24,7 +24,5 @@ this is an h2
 
 
 this is a normal paragraph: 
-
     this is a code block
-
 end code block
