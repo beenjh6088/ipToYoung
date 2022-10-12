@@ -1,3 +1,215 @@
+1. when should a forklift be checked for damage?
+	. pre-operational
+	. operation
+	. after using a forklift
+2. list 6 items that you should check when undertaking a pre operational check of the forklift
+	. light
+	. mirrors
+	. data plate
+	■wheels & tyres
+	■ mast
+	■ chain & pulleys
+3. list 6 start-up checks that should be made before operating the forklift
+	■ light
+	■ guages
+	■ steering
+	■ horn
+	■ hand brake
+	■ gears
+	■ hydrauric levers
+	■ reverse beeper
+4. why is it importatnt to communicate with workplace personnel before commencing work on site
+	. save us from any potential risk
+5. list 6 methods of communication can be used in the workplace
+	. warning sign
+	. verbally
+	. hand signal
+	. horn
+	. flashing lights
+	. radio
+6. if you are given unclear information about your work, what should you do
+	. stop steering a forklift and ask the coworker to repeat it until you understand
+7. before commencing work who should you cnsult with
+	. a first aid officer
+	. a manager
+	. coworkers
+8. are you allowed to use a forklift that has a missing data plate?
+	. no
+9. what action shoul you take if you find that data plate is missing from forklift
+	. remove the key
+	. tag 'out of service'
+	. report it to your manager
+10. what does hazard mean
+	. something may cause harm or injury
+11. list 6 site hazard and 6 non site hazards in the following table
+	6 site hazards
+		. wet ground
+		. uneven surface
+		. doorway
+		. debris on the ground
+		. ramp
+		. electoric area
+	6 non site hazards
+		. type of the load
+		. route to the load
+		. weight of the load
+		. capacity of the forklift
+		. sutable attatchment
+		. communication methods
+12. what does risk mean?
+	what happend to you when exposed to a hazard
+13. what is the risk of refueling while the engine is running
+	an explosion
+14. describe which way a loaded forklift should travel up a ramp and where your load should be facing
+	faced up a ramp
+15. what might occur if you attempt to turn a forklift while on a ramp or sloping surface
+	the forklift tips over
+	lose the load
+16. how high should your load be raised when travelling
+	at axle height or as low as possible
+17. when should hazard controls be applied
+	pre operation
+18. why is it unsafe to operate a forklift with the load raised
+	falling load kills people or damges warehouse structures
+19. what should be provided for the gap beween a truck and the loading dock before shifting the load
+	. bridge plate
+	. dock plate
+20. a pallet contains an unbalanced load with one end heavier than the other, whiich end should be against the heel of the fork arms
+	the heavier one
+21. if a pallet appears to be unsafely stacked, what wuold you do before lifting it
+	unshift the load and make the stacks stable
+22. what should you do if you have to work closer than the minimum distansces required when working near power lines
+	keep the minimum distances availale
+	report it to your manager
+23. list 2 things used to make power lines mover visible
+	. tiger tails
+	. powerline marker balls
+24. how can you find out what voltages the overhead power lines are
+	call the local power company
+25. what should you do if you drive into and make contact with power line
+	. warn people to stay away
+	. try to break away from the powerlines
+	. find the most safe place and stay there
+	. do not touch any metals
+	. report to a supervisor
+	. check forklift before reuse
+26. why is it dangerous to operate internal combustion engines in restricted/confined spaces
+	. fume may kill you
+27. why must batteries be charged in well ventilated area
+	to get rid of gas/fumes
+28. what would be the best forflift to use in confined space
+	an electronic forklift
+29. why should you constantly monitor the load movement when operating the forklift
+	to prevent tipping over the forklift by any accidents
+30. list 3 control measures that you can apply for pedestrains, site peronnel and vehicles or mobile equipments
+	■ overhead walkway and vehicle routes
+	■ designated walkway and parking areas
+	■ pedistrrian crossing
+	■ high impact barriers
+	■ gete and bollards
+31. what must you have when working at night or in dark areas
+	an adequate lights
+32. what precautions can you take when operating on wet and slippery surfaces
+	drive slowly
+	turn slowly
+33. why should you not raise or lower a load near or over people
+	it might hit people while operating
+34 is it permissible to carry a load with one fork arm
+	no, because it is so dangerous that an accident may occur
+35. is it permissible to carry passengers on a forklift
+	yes, because it is designed to carry
+36. how does attachment affect the capacity of the forklift
+	lower capacity
+37. what can happen if the load is not hard up against the heel of the fork arm
+	a lower capacity
+	the forklift tips over
+38. howw could you determine the weight of a load
+	checking weighbridge document
+	weighing a load
+	checking inventory system
+
+39. what should you do if a forklift is tipping over and you are inside the forklift
+	. brace myselff
+	. lean away from tipping side
+40. where is the fulcurm on the forklift? indicate on this digram
+	front wheels
+41. look at the following, which load is within the capacity of the forklift rated at 4200kg at 600mm
+	b
+42. where is the load centre distance? indicate in the digram below
+	heel to center of the load
+43. list 5 reasons a forklift may trip forward
+	. driving too fast
+	■ driving with load facing forward down slope
+	■ driving overloaded
+	■ driving off a landing dock
+	■ braking severly
+44. list 5 reasons a forklift may tip sideways
+	. turning fast
+	. turning with load too high
+	■ turning on ramps
+	■ turning on uneven ground
+	■ turning off loading dock
+	■ side shift not in centre
+45. why should a side shift attachment be centralised beffore travelling with a load
+	it can keep the forklift stable
+46. when using a different attachment, how will it affect the forklift
+	lower a capacity
+47. list 3 locations wher you must not park a forklift
+	. near first aid center
+	. near emergency exit
+	. near fire extinguishers
+	. on walkway
+	. on ramp
+48. why should you remove the keys from a forklift after use
+	to prevent unauthorized use
+49. what should you do if you notice a defect and or damage to the forklift
+	remove the key
+	tag 'out of service'
+	report it to your manager
+50. list 3 things you should consider when parking the forklift
+	■ tilt mast forward down to the ground
+	■ neutral gear
+	■ hand brake on
+	■ remove the key
+	■ place battery on charge
+51. what is your duty of care as hrw operator
+	. take care of my own safety
+	. take care of others safety
+52. list 3 things an employer can do to ensure the health and safety of workers
+	providing safe workplace
+	providing safe working systems
+	providing safe facilities
+	providing safe equipment 
+53. list 3 sources where you can find information about health and safety
+	operator's manuals
+	safety policies
+	australian standards
+	safety data sheets
+	job safety analysis
+54. how can hrw operator be penalized if they fail to operate the forklift safety
+	suspend a license
+	cancel a license
+	refuse to renew a license
+55. what should you check on wheels and tyres
+	■ pressure of air in tyres
+	■ wear and tear
+56. if you are driving with a large load and your view is obstructed, what should you do
+	use a spotter
+	move in reverse
+57. name the following attachments using the table below
+	■ rotators
+	■ drum carrier
+	■ carpet spike
+	■ jib
+	■ paper roll clamps
+	■ work platform
+	■ slippers
+	■ bale clamp
+
+58. khow can a weather report help you at work
+	■ help schedule the work tasks
+	■ help plan for risk controls
+
 2053	14.03gb
 
 10.04	Pokemon Bread / 포켓몬 빵
