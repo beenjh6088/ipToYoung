@@ -1,3 +1,48 @@
+	textbook
+
+	pattern practice
+
+	dialog practice
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+10.11	Life in Law School / 로스쿨 생활
+	textbook
+		when i was in college, i *majored in a law
+		i got a job that had nothing to do with major after graduating
+		but i had *lingering regrets and decided it in my 30s to go back to law school
+		right from the *get-go in my first semester. it wasn't easy
+		i always *felt like i *braek into tears as i studied
+		i struggled with a heavy workload. but time flies
+		and i'm in my third year already
+		next year i'll take the bar exam. i'm not the type of person to set major goals in life
+		and try to achieve them. 
+		instead i select best option whenever i'm *faced with the choices
+		so i don't have any detail plan for what to do after bar exam
+		but my reason for choosing this course is clear
+		my job will enable me to help others and contribute to a society
+	pattern practice
+		*right from the get-go
+			right from get-go in my first semester, it wasn't easy	
+			we got along well right from the get-go
+			right from the get-go, we knew it would be difficult
+		*struggle with sth
+			i struggled with a heavy workload
+			i feel bad that my son is struggling with heavy workload
+		*be faced with the choices
+			i select best option. whenever i'm faced with the choices
+			i get stress out whenever i'm faced with the choices
+			when we are faced with the choices, we make a decision together
+	dialog practice
+		*how much longer before you graduate from a law school
+		i have a year *left to go
+		then you have to take bar exam right?
+		that's right
+		i know must-be a heavy workload. but i hop you *see it through to the end
+		thanks for your word of support. it *means a lot to me
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
 10.04	Pokemon Bread / 포켓몬 빵
 	textbook
 		i'm a ordinary mom with a son in forth grade
@@ -8,13 +53,13 @@
 		at first, i stood in  line at the super market before they open to buy the pastry
 		but explosive popularity of pokemon bread meant that a line grew longer and longer
 		now i have to leave the house 
-		even before my son goes to school to get my hands on the bread	 
+		even before my son goes to school to *get my hands on the bread	 
 		sometimes weekend morning, the whole family lined up to buy the breads
 		it started out as a bit of fun 
 		but now i worried of it that has become an obsession
-		my husband is strongly against it, seeing how it has taken up my weekend
+		my husband is strongly against it, seeing how it has ta ken up my weekend
 		so we decided that this week would be the last
-		but i wonder why i still want to sneak out!
+		but i wonder why i still want to *sneak out!
 	pattern practice
 		*explosive popularity
 			pokemon bread enjoyed explosive popularity
