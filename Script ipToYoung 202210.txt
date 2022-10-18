@@ -3,13 +3,80 @@
 	pattern practice
 
 	dialog practice
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+10.17	Commuting by Bike / 자전거 출퇴근
+	textbook
+		in the past, i drove to work or took the company's commuter bus
+		but when weather *got mild in the spring i decided to commute by bike
+		before i *set up, i prepare safety equipment like my halmet, gloves, goggles, first-aid-kit
+		*if at all possible, i try to stay in bicycle lanes
+		when i do have to share the road with cars, 
+		i do my best to obey traffic lights and stay safe
+		i take a river side bicycle trail on my way to work, enjoying the *crisp morning air
+		taking in the view helps me start the day in good mood
+		i watched the sun going down or the stars in the night sky on my way home
+		it's chance to *reflect on the day to *make a resolution
+	pattern practice
+		*on my way to work
+			i take a river side bicycle trail on my way to work
+			i listen to audio book on my way to work
+			many people read a news on their way to work
+		*reflect on the day
+			cycling home from the work is a chance to reflect on the day
+			every night i take a few minute to reflect on the day
+			i like to reflect on the day as i write *in my diary
+	dialog practice
+		*do you take a bike to work?
+		yes, *i've done that for a while now
+		*isn't it tiring?
+		*i've gotten used to it. so that's okay
+		i'd like to give it a try. but i can't *bring myself to start
+		it's nice to get some excercise during your commute. i highly recommend it
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+10.14	Searching for Bats / 박쥐 탐사
+	textbook
+		ever since 2020 i have *gone searching for bats using *sonar detactors
+		whenever i travel to rural areas, i *set out in search of bat at night
+		bats are unique among *mammal *in that they *are capable of fly
+		they mostly *feed on fruits, flowers, insects and *fish
+		they *live in groups and go into *hibernation in winter 
+		they hiberate *for four months *out of the year
+		so searching for them in winter is *out of the question
+		bats use sonar to hunt and to avoid obstacle
+		the ultrasonic waves are very high-pitched so they are *undetactable to humans
+		bats admit ultrasonic waves and detact the sound that *bounced back
+		that's why you can find bats using sonar detactors
+	pattern practice
+		*set out in search of bats
+			whenever i travel to rural areas, i set out in search of bats at night
+			we set out in search of an open restaurants
+			we set out in search of an appropriate gift
+		*out of the question
+			searching for bats in winter is out of the question
+			going outside in this weather is out of the question
+		*undetactable
+			bats create sound that are undetactable to human
+			the smell is undetactable to humans but dogs can *sense it
+			the device sense signals that are undetactable to human
+	dialog practice
+		a lot of people are *prejudiced against bats. they think they are harful animals
+		that's right i think it's *largely down to their appearance
+		bats are actually helpful. they eat harmful instects
+		sometimes people *mistake them for birds
+		because they mostly fly around at night
+		i've heard bats live in major area like seoul too
+		yes i've heard *that is well
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
 10.11	Life in Law School / 로스쿨 생활
 	textbook
 		when i was in college, i *majored in a law
 		i got a job that had nothing to do with major after graduating
-		but i had *lingering regrets and dec ided it in my 30s to go back to law school
+		but i had *lingering regrets and decided it in my 30s to go back to law school
 		right from the *get-go in my first semester. it wasn't easy
 		i always *felt like i *braek into tears as i studied
 		i struggled with a heavy workload. but time flies
